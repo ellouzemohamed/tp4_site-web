@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(12, 226, 241);
+    padding-left: 450px;
+    padding-top: 150px; 
+}
+.section1 {
+   width: 50%;
+   height: 50%;
+   box-sizing: border-box;
+   text-align: center;
+   line-height: 100px;
+   background-color:rgb(221, 221, 221) ;
+
+   
+}
+input  {
+    height: 40px;
+}
+button {
+    width: 315px;
+    height: 50px;
+    background-color: rgb(12, 226, 241);
+    color: white;
+}
+
+a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    
+}
